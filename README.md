@@ -17,6 +17,7 @@ The user stories we want to cover:
    - [ ] The app can make a notification and remind the user that they have unread stories.
    - [ ] There is a settings page for the user to modify their notification settings.
    - [ ] The user can see embeded tweets, reddit posts and youtube videos within the app.
+
 Stretch Goals:
    - [ ] The user can sign in with their social media accounts and get customized top tweets and facebook posts. 
    - [ ] Make a splash screen the user can see while the app loads.  
