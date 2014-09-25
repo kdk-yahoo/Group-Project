@@ -13,11 +13,13 @@ The user stories we want to cover:
    - [ ] From the detailed view the user can go back to the list.
    - [ ] The user can share the story.
    - [ ] The user can swipe left or right to see the next/previous story in the list.
-   - [ ] The user can swipe down after getting to the end of the list to load additional stories. 
    - [ ] The app can make a notification and remind the user that they have unread stories.
    - [ ] There is a settings page for the user to modify their notification settings.
-   - [ ] The user can see embeded tweets, reddit posts and youtube videos within the app.
+   - [ ] The user can see embeded tweets, stories and youtube videos within the app.
 
 Stretch Goals:
    - [ ] The user can sign in with their social media accounts and get customized top tweets and facebook posts. 
    - [ ] Make a splash screen the user can see while the app loads.  
+   - [ ] The user can swipe down after getting to the end of the list to load additional stories. 
+   - [ ] The user can view embeded reddit posts within the app.
+
